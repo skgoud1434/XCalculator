@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+input {
+  width: 200px;
+  margin-left: 43%;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+button {
+  margin-right: 10px;
+  /* margin-bottom: 5px; */
+  cursor: pointer;
+  width: 30px;
+  border-radius: 5px;
+}
